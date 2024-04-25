@@ -1,0 +1,20 @@
+.card {
+    width: 25%;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
